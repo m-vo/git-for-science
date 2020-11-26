@@ -2,6 +2,7 @@
 
 ![](files/cat.jpg)
 
+**source**: image by *quatre mains* via [placekitten.com](https://placekitten.com/attribution.html)
 
 ## Lipsum
 
