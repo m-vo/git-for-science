@@ -1,3 +1,3 @@
 # Hello!
 
-This is our project.
+This is our awesome project.
